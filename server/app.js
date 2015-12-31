@@ -11,7 +11,7 @@ var express = require('express'),
     localStrategy = require('passport-local' ).Strategy;
 
 // mongoose
-mongoose.connect('mongodb://46.101.93.30');
+mongoose.connect('mongodb://46.101.94.76/mean-test');
 
 // user schema/model
 var User = require('./models/user.js');
