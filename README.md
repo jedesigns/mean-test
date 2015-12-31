@@ -1,3 +1,0 @@
-# mean-test
-
-Readme
